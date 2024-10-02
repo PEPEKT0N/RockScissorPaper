@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSP_git", "RSP_git\RSP_git.csproj", "{702EAD51-9878-4532-ACA6-396B8D236683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702EAD51-9878-4532-ACA6-396B8D236683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702EAD51-9878-4532-ACA6-396B8D236683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702EAD51-9878-4532-ACA6-396B8D236683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702EAD51-9878-4532-ACA6-396B8D236683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7115CD3C-8FED-4734-B4F8-2E8FE0E0149F}
+	EndGlobalSection
+EndGlobal
